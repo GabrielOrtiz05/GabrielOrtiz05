@@ -9,7 +9,7 @@
  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
 ```
 
-### Estudante de Ciências da Computação · Python Developer · Curioso por natureza
+### Estudante de Ciências da Computação · Python Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931E&center=true&width=500&lines=5%C2%BA+semestre+%7C+CC;Python+%7C+React+%7C+Vue.js;Building+real+things%2C+one+commit+at+a+time)](https://github.com/GabrielOrtiz05)
 
