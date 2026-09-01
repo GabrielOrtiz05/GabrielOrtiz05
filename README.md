@@ -74,7 +74,7 @@ Atualmente construindo coisas que de fato existem e funcionam no mundo real.
 gabriel = {
     "focado_em":  ["React", "Vue.js", "arquitetura de SaaS"],
     "aprendendo": ["TypeScript", "boas práticas de API REST"],
-    "meta_2025":  "lançar o SaaS da churrascaria em produção",
+    "meta_2026":  "lançar o SaaS da churrascaria em produção",
 }
 ```
 
